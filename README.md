@@ -5,6 +5,7 @@ Notice: Currently this Repo only supports daily freq time series data prediction
 3. new_prophet: Simply Wrapping Up Prophet in order to make it more convenient to use
 4. calibration: Enhance the forecast precision of prophet based on practical experience (of what the model weak at)
 5. Validation: Validate model using back test (similar to cross validation in tradition ML)
+6. Demo：using example to show how to use the scripts above
 
 ## Input Data:<br />
 The Input data should be in format like this:<br />
